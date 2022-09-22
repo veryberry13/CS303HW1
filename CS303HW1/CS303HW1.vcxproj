@@ -145,7 +145,7 @@
     <Text Include="CS303HW1_data.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CS303HW1.h" />
+    <ClInclude Include="Database.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

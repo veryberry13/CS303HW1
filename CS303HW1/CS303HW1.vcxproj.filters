@@ -25,7 +25,7 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CS303HW1.h">
+    <ClInclude Include="Database.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

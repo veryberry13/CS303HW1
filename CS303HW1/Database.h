@@ -1,8 +1,7 @@
 #ifndef DATABASE_H_
 #define DATABASE_H_
-//#include <iostream>
 
-/** Class details */
+/** The class Database has methods that can display and manipulate an array of numbers */
 class Database {
 		public:
 			void display(int* data, int array_size);
